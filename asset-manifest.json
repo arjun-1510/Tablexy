@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Tablexy/static/css/main.afd7172b.chunk.css",
+    "main.js": "/Tablexy/static/js/main.23de51dd.chunk.js",
+    "main.js.map": "/Tablexy/static/js/main.23de51dd.chunk.js.map",
+    "runtime-main.js": "/Tablexy/static/js/runtime-main.6518f78c.js",
+    "runtime-main.js.map": "/Tablexy/static/js/runtime-main.6518f78c.js.map",
+    "static/js/2.97d15c5c.chunk.js": "/Tablexy/static/js/2.97d15c5c.chunk.js",
+    "static/js/2.97d15c5c.chunk.js.map": "/Tablexy/static/js/2.97d15c5c.chunk.js.map",
+    "static/js/3.1c3715ca.chunk.js": "/Tablexy/static/js/3.1c3715ca.chunk.js",
+    "static/js/3.1c3715ca.chunk.js.map": "/Tablexy/static/js/3.1c3715ca.chunk.js.map",
+    "static/js/4.11739f59.chunk.js": "/Tablexy/static/js/4.11739f59.chunk.js",
+    "static/js/4.11739f59.chunk.js.map": "/Tablexy/static/js/4.11739f59.chunk.js.map",
+    "static/js/5.3d06ad4f.chunk.js": "/Tablexy/static/js/5.3d06ad4f.chunk.js",
+    "static/js/5.3d06ad4f.chunk.js.map": "/Tablexy/static/js/5.3d06ad4f.chunk.js.map",
+    "index.html": "/Tablexy/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/Tablexy/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.97d15c5c.chunk.js.LICENSE.txt": "/Tablexy/static/js/2.97d15c5c.chunk.js.LICENSE.txt",
+    "static/js/3.1c3715ca.chunk.js.LICENSE.txt": "/Tablexy/static/js/3.1c3715ca.chunk.js.LICENSE.txt",
+    "static/js/4.11739f59.chunk.js.LICENSE.txt": "/Tablexy/static/js/4.11739f59.chunk.js.LICENSE.txt",
+    "static/js/5.3d06ad4f.chunk.js.LICENSE.txt": "/Tablexy/static/js/5.3d06ad4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6518f78c.js",
+    "static/js/3.1c3715ca.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.23de51dd.chunk.js"
+  ]
+}
